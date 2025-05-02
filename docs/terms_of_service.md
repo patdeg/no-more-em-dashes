@@ -4,7 +4,7 @@ Effective Date: 2025-05-02
 
 ## 1. Acceptance of Terms
 
-By installing or using the no-more-mdash Extension, you agree to be bound by these Terms of Service.
+By installing or using the no-more-em-dashes Extension, you agree to be bound by these Terms of Service.
 
 ## 2. License
 
