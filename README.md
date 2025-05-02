@@ -2,6 +2,10 @@
 
 Repository: https://github.com/patdeg/no-more-mdash
 
+Author: Patrick Deglon
+Contact: pdeglon@gmail.com
+Location: San Diego, CA, USA
+
 A simple Chrome extension that converts all em-dashes (—) to normal hyphens (-) on web pages.
 
 ## Contents

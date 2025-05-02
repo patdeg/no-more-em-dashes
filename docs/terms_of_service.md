@@ -20,4 +20,12 @@ In no event shall the authors or copyright holders be liable for any claim, dama
 
 ## 5. Governing Law
 
-These Terms are governed by the laws of [Your Jurisdiction].
+These Terms are governed by the laws of California, USA.
+
+## 6. Contact Information
+
+For any questions or feedback about these Terms, you can contact the developer:
+
+- Name: Patrick Deglon
+- Email: pdeglon@gmail.com
+- Location: San Diego, CA, USA
