@@ -1,4 +1,4 @@
-# no-more-em-dashes
+# ChatGPT: no more em-dashes
 
 Repository: https://github.com/patdeg/no-more-em-dashes
 
@@ -6,11 +6,11 @@ Author: Patrick Deglon
 Contact: pdeglon@gmail.com
 Location: San Diego, CA, USA
 
-A simple Chrome extension that converts all em-dashes (—) to normal hyphens (-) on web pages.
+ChatGPT: no more em-dashes is a simple Chrome extension that converts all em-dashes (—) to normal hyphens (-) on https://chatgpt.com pages.
 
 ## Contents
 
-- no-more-em-dashes/manifest.json — Extension manifest  
+- no-more-em-dashes/manifest.json — Extension manifest (restricted to https://chatgpt.com/*)  
 - no-more-em-dashes/content.js — Core replacement logic  
 - no-more-em-dashes/icons/ — Directory for icon assets  
 - LICENSE — MIT License  
@@ -29,7 +29,7 @@ A simple Chrome extension that converts all em-dashes (—) to normal hyphens (-
 ## Packaging & Publishing
 
 1. Ensure all required files are present:
-   - `manifest.json`
+   - `manifest.json` (configured with host_permissions for https://chatgpt.com/*)
    - `content.js`
    - `icons/` (icon16.png, icon48.png, icon128.png)
    - `LICENSE`
@@ -49,4 +49,4 @@ A simple Chrome extension that converts all em-dashes (—) to normal hyphens (-
 
 ## Development
 
-Modify `content.js` to adjust behavior, then increment `version` in `manifest.json` and update `CHANGELOG.md`.
+Modify `manifest.json` to adjust host_permissions and `content_scripts.matches` for https://chatgpt.com/*, modify `content.js` to adjust behavior if needed, then increment `version` in `manifest.json` and update `CHANGELOG.md`.

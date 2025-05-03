@@ -4,7 +4,7 @@ Effective Date: 2025-05-02
 
 ## Introduction
 
-The no-more-em-dashes Chrome extension ("Extension") does not collect, transmit, or store any personal or identifiable user information. This Privacy Policy outlines the data practices of the Extension.
+The ChatGPT: no more em-dashes Chrome extension ("Extension") does not collect, transmit, or store any personal or identifiable user information. This Privacy Policy outlines the data practices of the Extension.
 
 ## Data Collection
 
